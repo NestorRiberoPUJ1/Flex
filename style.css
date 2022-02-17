@@ -17,9 +17,9 @@ div{
 }
 
 .s1, .s2,.s4{
-    flex:1
+    flex:1;
 }
 
 .s3{
-    flex:5
+    flex:5;
 }
